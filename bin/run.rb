@@ -1,7 +1,7 @@
 require_relative '../config/environment'
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
-rspec
+#Hashie
+#Sinatra
+#Octokit
+#Pry
+#AwesomePrint
+#rspec
